@@ -18,3 +18,5 @@ Cooperate with the government to develop games for training and testing to impro
 
 Develop fun and engaging games to attract young people to the trucking industry.
 Showcase the career prospects of the industry to attract more people to join.
+
+![Tux, the Linux mascot](/images/aws-quickstart-01.jpg)
