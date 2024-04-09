@@ -14,6 +14,8 @@ In this post, I'll be discussing why you should try your hand at retro-game deve
 
 ![images/pico-8 demo](/images/retro-games-with-pico-8-01.jpg)
 
+
+
 ## Why you should build a retro game
 
 For new programmers especially, a retro game project is:
