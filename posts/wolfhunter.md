@@ -5,8 +5,6 @@ date: "2020-12-22"
 image: "/images/wolfhunter-01.jpg"
 ---
 
-![Tux, the Linux mascot](/images/wolfhunter-01.jpg)
-
 In a [previous post](./retro-games-with-pico-8) I talked about how making retro 8-bit games is a great way for fledgling developers to learn new things whilst expanding their portfolio.
 
 I recently gave it a go myself, making a small RPG combat game called "Wolfhunter".
@@ -15,7 +13,7 @@ I spent two weekends on the project, which—despite my prior experience in game
 
 [Source (GitHib)](https://github.com/pixegami/wolfhunter) | [Play the Game! (Web, Mobile)](https://pixegami.github.io/wolfhunter/)
 
-![images/wolfhunter_title](/images/wolfhunter_title.png)
+![Tux, the Linux mascot](/images/wolfhunter-01.jpg)
 
 ## Concept
 
