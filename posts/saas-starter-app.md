@@ -7,13 +7,13 @@ image: "/images/saas-starter-app-01.jpg"
 
 The [SaaS (software as a service)](https://en.wikipedia.org/wiki/Software_as_a_service) model underpins many of today's successful new businesses. Knowing how to build one from start to finish is probably a useful addition to any software developer's skill set.
 
-
-
 But even when you strip a SaaS product of its business logic, there's still a non-trivial amount of work and trade-offs to consider.
 
 In this project, my goal was to build a fully serverless SaaS web-app with authentication and payments — the two vital organs of any business.
 
 My implementation is opinionated (as you'll see), and intended to serve as a starting point for new SaaS ideas in the future. Here's what's included:
+
+![Tux, the Linux mascot](/images/saas-starter-app-01.jpg)
 
 - [Authentication](#authentication)
 - [Payments (Stripe)](#payments-stripe)
