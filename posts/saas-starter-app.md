@@ -13,6 +13,10 @@ In this project, my goal was to build a fully serverless SaaS web-app with authe
 
 My implementation is opinionated (as you'll see), and intended to serve as a starting point for new SaaS ideas in the future. Here's what's included:
 
+
+
+
+
 ![Tux, the Linux mascot](/images/saas-starter-app-01.jpg)
 
 - [Authentication](#authentication)
